@@ -1,4 +1,7 @@
 {
-  "name": "TestAdmob",
-  "displayName": "TestAdmob"
+  "name": "testadmob",
+  "displayName": "testadmob",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3760384888674931~6854211281"
+  }
 }
